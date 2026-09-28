@@ -1,0 +1,2 @@
+import Navbar from '../components/Navbar'
+export default function Placeholder({title='Coming next',text='This part of the marketplace is ready to be connected to the backend next.'}){return <><Navbar/><main className="mx-auto flex min-h-[70vh] max-w-[1320px] items-center px-5 py-20 lg:px-8"><div><p className="text-[11px] font-bold uppercase tracking-[.2em] text-[#ff42ad]">Bidly</p><h1 className="mt-3 font-display text-6xl font-extrabold tracking-[-.07em]">{title}</h1><p className="mt-5 max-w-lg text-black/50">{text}</p></div></main></>}
