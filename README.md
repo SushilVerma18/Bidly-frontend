@@ -197,7 +197,7 @@ For production deployment, configure the backend API URL through environment var
 
 ## 👨‍💻 Author
 
-**[Rahul Singh]**
+**[Sushil Verma]**
 
 BTech Information Technology Student
 Interested in **Java, Spring Boot, React.js, DSA & Full-Stack Development**
