@@ -116,7 +116,7 @@ http://localhost:5173
 Bidly's frontend communicates with a separate **Spring Boot backend** through REST APIs.
 
 **Backend Repository:**
-https://github.com/io303/Real-Time-Auction-Platform/tree/main
+https://github.com/SushilVerma18/Bidly-backend
 
 
 ## 🌐 Live Demo
